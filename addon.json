@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "HWID Manager",
+    "description": "HWID Addon for XenForo 2.X",
+    "version_id": 1000010,
+    "version_string": "1.0.0 1",
+    "dev": "Gamania",
+    "dev_url": "https://gamania.ru",
+    "faq_url": "https://github.com/GiaNTizmO/XFHwidManager/",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "fa-microchip fas"
+}
